@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnCaothu
+- 👋 Hi, I’m An
 - 👀 I’m interested in machine learning and programming
 - 🌱 I’m currently learning python, AI, machine learning
 - 💞️ I’m looking to collaborate on programming
